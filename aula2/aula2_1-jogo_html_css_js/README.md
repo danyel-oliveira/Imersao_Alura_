@@ -4,7 +4,13 @@ A Pen created on CodePen.
 
 Original URL: [https://codepen.io/DanyelB_Oliveira/pen/yyLGKNO](https://codepen.io/DanyelB_Oliveira/pen/yyLGKNO).
 - 🎮 Jogo simples de Jokenpô (Pedra, Papel e Tesoura), com uma verificação de idade antes de permitir que o jogaor jogue.
-- 📖 Aplicação dos 4 pilares da Programção Orienta a Objeto(POO): abstração, encapulamento, herança e polimorfismo.
+- 📖 Aplicação dos 4 pilares da Programção Orienta a Objeto(POO): Abstração, Encapulamento, Herança e Polimorfismo. 
+- 💻 O jogo tem um design moderno, inspirado em UI/UX, e é totalmente funcional! Basta inserir sua escolha e o código determina o vencedor de forma aleatória, tornando a experiência envolvente.
+- ✅ Lógica de Programação com JavaScript.
+- ✅ Manipulação do DOM para interação dinâmica.
+- ✅ Design Responsivo para melhor experiência do usuário.
+- ✅ Estilização avançada com CSS, incluindo botões interativos.
+- ✅ Boas práticas de desenvolvimento Front-End.
 
 
 <div>
