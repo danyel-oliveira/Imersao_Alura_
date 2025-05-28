@@ -1,6 +1,9 @@
-# Conversor_de_Moedas
+## Conversor de Moedas 🪙
 
-A Pen created on CodePen.
+- 📖 Nesse projeto ultilizamos HTML e JavaScript.
+- 🎰 Tem o objetivo de solicitar ao usuário que digite um valor em dólar, verifica se o valor é valido e exibe o valor convertido.
 
-Original URL: [https://codepen.io/DanyelB_Oliveira/pen/wBvRyLb](https://codepen.io/DanyelB_Oliveira/pen/wBvRyLb).
-
+<div style="display: inline_block"><br>
+<img align="center" alt=danyel-HTML" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />      
+   <img align="center" alt=danyel-Js" height="50" width"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+</div>
