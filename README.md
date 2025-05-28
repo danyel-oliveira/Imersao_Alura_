@@ -29,4 +29,4 @@
  taget="_blank"></a> 
 </div> 
 
-![Snake animation](https://github.com/danyel-olivierira/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
