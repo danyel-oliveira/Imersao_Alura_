@@ -1,4 +1,4 @@
-## Olá ! Eu sou o Danyel Barros Oliveira. Aluno de Análise e Desenvolvimento de Sistemas
+## Olá ! Eu sou o Danyel Barros Oliveira. Aluno de Análise e Desenvolvimento de Sistemas.
 
 - 🎒 Cursando o 3° semestre
 - 💻 Projeto Pessoal de Programação Orientada à Objeto com Javascript.
