@@ -1,9 +1,69 @@
-## Conversor de Moedas 🪙
+# Conversor de Moedas 🪙
 
-- 📖 Nesse projeto ultilizamos HTML e JavaScript.
-- 🎰 Tem o objetivo de solicitar ao usuário que digite um valor em dólar, verifica se o valor é valido e exibe o valor convertido.
-- 🔎 Variáveis e como armazenar dados temporários, Operações matemáticas básicas (+, -, *, /), Entrada e saída de dados com prompt() e alert().
-<div style="display: inline_block"><br>
-<img align="center" alt=danyel-HTML" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />      
-   <img align="center" alt=danyel-Js" height="50" width"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+## 📋 Sobre o Projeto
+Aplicação web simples que converte valores de dólar americano (USD) para real brasileiro (BRL), desenvolvida com HTML, CSS e JavaScript. O projeto tem como objetivo demonstrar conceitos básicos de programação web e interação com o usuário.
+
+## 🎯 Objetivo
+- Solicitar ao usuário que digite um valor em dólar
+- Verificar se o valor inserido é válido
+- Exibir o valor convertido para real brasileiro
+- Demonstrar o uso de variáveis, operações matemáticas e entrada/saída de dados
+
+## 🔍 Conceitos Abordados
+- **Variáveis**: Como armazenar dados temporários
+- **Operações matemáticas**: Básicas (+, -, *, /)
+- **Entrada e saída de dados**: Utilizando `prompt()` e `alert()`
+- **Validação de dados**: Verificação de valores válidos
+- **Interface responsiva**: Design adaptável
+
+## 🚀 Demo
+**🎮 Acesse o projeto:** [Conversor de Moedas](https://codepen.io/DanyelB_Oliveira/pen/wBvRyLb)
+
+## 🛠️ Tecnologias Utilizadas
+
+### HTML5
+- Estrutura semântica com elementos `<body>`, `<img>`, `<div>`, `<h2>`, `<p>`, `<button>`, `<footer>`
+- Organização clean e acessível
+
+### CSS3
+- **Background**: Imagem externa personalizada
+- **Posicionamento**: Absoluto para logo
+- **Layout**: Flexbox para centralização de elementos
+- **Efeitos visuais**: Transparência com `rgba()`
+- **Transições**: `transition: background-color 0.3s ease`
+- **Interatividade**: Hover effects nos botões
+
+### JavaScript
+- **Interação**: Básica com `prompt()` e `alert()`
+- **Matemática**: Operações simples de conversão
+- **Eventos**: Função `onclick` para interatividade
+- **Lógica**: Validação e processamento de dados
+
+## ⚙️ Funcionalidade
+A aplicação realiza a conversão de dólar para real usando uma taxa fixa de câmbio:
+- **Taxa utilizada**: 1 USD = 5.68 BRL
+- **Interface intuitiva**: Botão para iniciar conversão
+- **Validação**: Verifica se o valor inserido é numérico e válido
+- **Feedback**: Exibe resultado através de alert
+
+## 💻 Como Usar
+1. Acesse o link do projeto
+2. Clique no botão "Converter"
+3. Digite o valor em dólares quando solicitado
+4. Visualize o resultado da conversão
+
+## 🎨 Design
+- Layout centralizado e responsivo
+- Elementos visuais atraentes
+- Transições suaves
+- Interface user-friendly
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" width="50" />
 </div>
+
+---
+
+*Projeto desenvolvido para fins educacionais, demonstrando conceitos fundamentais de desenvolvimento web front-end.*
