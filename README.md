@@ -2,7 +2,7 @@
 
 - 🎒 Cursando o 3° semestre
 - 💻 Projeto Pessoal de Programação Orientada à Objeto com Javascript.
-- 📖 Projeto desenvolvido na Imersão Alura.
+- 📖 Foi desenvolvido na Imersão Alura no período 31/03/2025 a 14/04/2025
 
 <div>
     <a href="https://github.com/danyeloliveira">
