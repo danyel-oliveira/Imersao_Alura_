@@ -58,12 +58,21 @@ A aplicação realiza a conversão de dólar para real usando uma taxa fixa de c
 - Transições suaves
 - Interface user-friendly
 
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" height="50" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" width="50" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danyel-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyel-oliveira&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+## 🛠️ Stack Tecnológica
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5" height="60" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3" height="60" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" height="60" width="60" />
+</div>
+
+<div align="center">
+ 
 ---
 
 *Projeto desenvolvido para fins educacionais, demonstrando conceitos fundamentais de desenvolvimento web front-end.*
