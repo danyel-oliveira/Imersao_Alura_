@@ -2,7 +2,10 @@
 
 **`Estudante do 3° semestre de ADS`**
 
-Me chamo Danyel Barros Oliveira, tenho 26 anos e de Brasília-DF. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF. Sou apaixonada por tecnologia e através desse repositório compartilho meu conhecimento que obtive na Imersão Alura. 
+## 🎮 Portfólio de Jogos Web
+
+Este repositório contém uma coleção de 5 jogos web desenvolvidos para demonstrar a evolução progressiva das habilidades em desenvolvimento front-end.
+ 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/danyel-b-oliveira-746471242/">
